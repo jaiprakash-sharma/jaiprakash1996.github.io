@@ -1,0 +1,18 @@
+#header {
+  background-position: left -5.5px;
+}
+
+header
+{
+   margin-left:auto;
+   overflow: hidden;
+}
+
+img {
+  height: 161.8px;
+  width: 100px;
+  border-radius: 50%;
+}
+a, a:hover, a:visited, a:link, a:active, a:-webkit-any-link {
+    text-decoration: none!important;
+}
